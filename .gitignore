@@ -1,0 +1,7 @@
+*
+!.gitignore
+!*.m
+!*.png
+!variaveis_de_ambiente.mat
+!Casos\ Covid_RJ.xlsx
+!README.md
